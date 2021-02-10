@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!-- app bar -->
+        <item name="colorPrimary">#03A9F4</item>
+        <!-- status bar and contextual app bars-->
+        <item name="colorPrimaryDark">#0288D1</item>
+        <!-- checkbox and textfields etx-->
+        <item name="colorAccent">#FFC107</item>
+
+    </style>
+    
+    <style name="HeaderTextStyle" >
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+</resources>
